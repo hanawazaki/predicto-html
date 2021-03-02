@@ -262,3 +262,90 @@
   line-height: 34px;
   color: #696974;
 }
+
+.login {
+  margin-top: 142px;
+  margin-left: 150px;
+  margin-right: 144px;
+}
+
+.text-login h1 {
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 84px;
+  letter-spacing: 0.233333px;
+  color: #44444f;
+}
+
+.text-login p {
+  font-family: Poppins;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 34px;
+  letter-spacing: 0.1px;
+  color: #696974;
+}
+
+.login {
+  margin-bottom: 188px;
+}
+
+.form-group {
+  margin-bottom: 20px !important;
+}
+.form-input {
+  border: 1px solid #e2e2ea;
+  box-sizing: border-box;
+  border-radius: 10px;
+  width: 420px;
+  height: 48px;
+}
+
+.form-input::placeholder {
+  font-family: Roboto;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.1px;
+  color: #b5b5be;
+  padding-left: 15px;
+}
+
+.btn-login {
+  background: #274a7f !important;
+  border-radius: 10px !important;
+  width: 420px;
+  height: 48px;
+}
+
+.btn-register {
+  background: #0062ff !important;
+  border-radius: 10px !important;
+  width: 420px;
+  height: 48px;
+}
+
+.form-check-label {
+  font-family: Roboto;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  color: #696974;
+}
+
+.btn-login {
+  margin-top: 20px;
+  margin-bottom: 30px;
+}
+
+.belum-punya-akun {
+  font-family: Roboto;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.1px;
+  color: #b5b5be;
+  margin-bottom: 30px;
+}
