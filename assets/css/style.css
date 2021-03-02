@@ -1,0 +1,264 @@
+.navbar {
+  padding: 0.5rem 9rem 0.5rem 5.25rem !important;
+}
+
+.container {
+  padding-right: 0px;
+  padding-left: 0px;
+}
+
+.navbar-nav {
+  justify-content: space-between !important;
+}
+
+.navbar-nav a {
+  font-family: Poppins !important;
+  font-weight: normal !important;
+  font-size: 14px !important;
+  line-height: 21px !important;
+  letter-spacing: 0.1px !important;
+  color: #44444f !important;
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+.navbar-nav a:hover {
+  border-bottom: 3px solid#274A7F;
+  color: #274a7f !important;
+  padding-bottom: 20px;
+  padding-top: 19px;
+}
+
+.navbar-brand {
+  margin-right: 53px;
+}
+
+.navbar-brand img {
+  width: 42px;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link {
+  margin-right: 2.25rem;
+}
+
+.navbar-login {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 26px;
+  align-items: center;
+  text-align: right;
+  letter-spacing: 0.2px;
+  color: #274a7f;
+}
+
+.navbar-login:hover {
+  border-bottom: 3px solid#274A7F;
+  color: #274a7f !important;
+  padding-bottom: 20px;
+  padding-top: 19px;
+  text-decoration: none;
+}
+
+.info-satu {
+  margin-top: 120px;
+  color: #44444f;
+  margin-left: 150px;
+  margin-right: 130px;
+  position: relative;
+}
+
+.info-satu .col-6 {
+  padding-left: 9px;
+  padding-right: 2px;
+}
+
+.textinfo h2 {
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 56px;
+  letter-spacing: 0.233333px;
+}
+
+.textinfo p {
+  font-family: Poppins;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 34px;
+  letter-spacing: 0.1px;
+}
+
+.row {
+  margin-right: 60px !important;
+  margin-left: 60px !important;
+}
+
+.info-dua {
+  position: relative;
+  margin-top: -96px;
+}
+
+.bg-info-dua {
+  background: #122959;
+  border-radius: 0px 150px 0px 0px;
+  margin-right: 66px;
+}
+
+.feature-text {
+  background-image: url("/assets/images/bg-cicle.png");
+  background-position: 349px -91px;
+  background-repeat: no-repeat;
+  background-size: 61%;
+  padding-top: 195px;
+  padding-right: 50px;
+}
+
+.feature-text h5 {
+  font-family: Nunito;
+  font-weight: 600;
+  font-size: 18px;
+  text-align: right;
+  letter-spacing: 0.2px;
+  color: #f1e21a;
+  margin-bottom: 6px;
+}
+
+.feature-text p {
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 36px;
+  line-height: 52px;
+  text-align: right;
+  letter-spacing: 0.2px;
+  color: #ffffff;
+}
+
+.bg-circle {
+  padding: 10px;
+}
+
+.latihansoal-text {
+  background-image: url("/assets/images/bg-cicle2.png");
+  background-position: 1px 39px;
+  background-repeat: no-repeat;
+  background-size: 34%;
+  padding-top: 44px;
+  padding-left: 150px;
+}
+
+.latihansoal-text h5 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 36px;
+  letter-spacing: 0.909091px;
+  color: #ffffff;
+}
+
+.latihansoal-text p {
+  font-family: Poppins;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 30px;
+  letter-spacing: 0.1px;
+  color: #ffffff;
+}
+
+.img-bear2 {
+  padding-left: 193px;
+}
+
+.info-tiga {
+  position: relative;
+}
+
+.guideline {
+  position: absolute;
+  top: -80px;
+  left: 347px;
+}
+
+.tryout-image {
+  padding-top: 91px;
+  padding-left: 76px;
+  align-items: stretch;
+}
+
+.tryout-text {
+  padding-right: 138px;
+  top: 91px;
+}
+
+.tryout-text h4 {
+  font-family: Poppins;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 36px;
+  text-align: right;
+  color: #272a45;
+}
+
+.tryout-text p {
+  font-family: Poppins;
+  font-weight: normal;
+  font-size: 18px;
+  text-align: right;
+  color: #42445a;
+}
+
+.ranking {
+  margin-top: 87px;
+  padding-left: 152px;
+  align-items: stretch;
+}
+
+.ranking-text h4 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  color: #272a45;
+}
+
+.ranking-text p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  color: #42445a;
+}
+
+.ranking-image img {
+  width: 100%;
+}
+
+.col-6.ranking-image {
+  padding-right: 0 !important;
+}
+
+.logos {
+  padding-left: 56px;
+}
+
+.text-payment {
+  padding-top: 22px;
+  padding-right: 151px;
+}
+.text-payment h1 {
+  font-family: Poppins;
+  font-weight: bold;
+  font-size: 56px;
+  line-height: 84px;
+  color: #44444f;
+}
+
+.text-payment p {
+  font-family: Poppins;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 34px;
+  color: #696974;
+}
